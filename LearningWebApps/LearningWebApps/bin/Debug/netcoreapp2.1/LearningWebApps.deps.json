@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v2.1": {
       "LearningWebApps/1.0.0": {
         "dependencies": {
+          "Languages.Business": "1.0.0",
+          "Languages.Business.Entity": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
@@ -205,6 +207,90 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "Languages.Business/1.0.0": {
+        "dependencies": {
+          "Languages.Business.Entity": "1.0.0",
+          "Languages.DataLayer": "1.0.0"
+        },
+        "runtime": {
+          "Languages.Business.dll": {}
+        },
+        "compile": {
+          "Languages.Business.dll": {}
+        }
+      },
+      "Languages.Business.Entity/1.0.0": {
+        "runtime": {
+          "Languages.Business.Entity.dll": {}
+        },
+        "compile": {
+          "Languages.Business.Entity.dll": {}
+        }
+      },
+      "Languages.Common/1.0.0": {
+        "runtime": {
+          "Languages.Common.dll": {}
+        },
+        "compile": {
+          "Languages.Common.dll": {}
+        }
+      },
+      "Languages.Data.Common/1.0.0": {
+        "dependencies": {
+          "Languages.Common": "1.0.0"
+        },
+        "runtime": {
+          "Languages.Data.Common.dll": {}
+        },
+        "compile": {
+          "Languages.Data.Common.dll": {}
+        }
+      },
+      "Languages.Data.Entity/1.0.0": {
+        "dependencies": {
+          "Languages.Business.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Languages.Data.Entity.dll": {}
+        },
+        "compile": {
+          "Languages.Data.Entity.dll": {}
+        }
+      },
+      "Languages.Data.Query/1.0.0": {
+        "dependencies": {
+          "Languages.Data.Common": "1.0.0",
+          "Languages.Data.Entity": "1.0.0",
+          "Dapper": "1.50.5.0"
+        },
+        "runtime": {
+          "Languages.Data.Query.dll": {}
+        },
+        "compile": {
+          "Languages.Data.Query.dll": {}
+        }
+      },
+      "Languages.DataLayer/1.0.0": {
+        "dependencies": {
+          "Languages.Business.Entity": "1.0.0",
+          "Languages.Data.Entity": "1.0.0",
+          "Languages.Data.Query": "1.0.0"
+        },
+        "runtime": {
+          "Languages.DataLayer.dll": {}
+        },
+        "compile": {
+          "Languages.DataLayer.dll": {}
+        }
+      },
+      "Dapper.Reference/1.50.5.0": {
+        "runtime": {
+          "Dapper.dll": {
+            "assemblyVersion": "1.50.5.0",
+            "fileVersion": "1.50.5.0"
+          }
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3210,6 +3296,46 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Languages.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Languages.Business.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Languages.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Languages.Data.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Languages.Data.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Languages.Data.Query/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Languages.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper.Reference/1.50.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

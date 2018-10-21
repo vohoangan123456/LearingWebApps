@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LearningWebApps.Controllers
+namespace LanguageStudyingWebApps.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -41,5 +41,12 @@ namespace LearningWebApps.Controllers
         public void Delete(int id)
         {
         }
+        
+        [HttpGet("getdata")]
+        public void GetData()
+        {
+            var x = 1;
+        }
+
     }
 }

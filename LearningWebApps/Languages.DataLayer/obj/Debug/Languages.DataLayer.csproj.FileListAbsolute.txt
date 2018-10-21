@@ -1,0 +1,76 @@
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.csprojAssemblyReference.cache
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.csproj.CoreCompileInputs.cache
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.DataLayer.dll.config
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.DataLayer.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.DataLayer.pdb
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Business.Entity.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Entity.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Query.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Common.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Dapper.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Common.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\netstandard.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Memory.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Buffers.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Business.Entity.pdb
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Business.Entity.dll.config
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Entity.pdb
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Entity.dll.config
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Query.pdb
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Query.dll.config
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Common.pdb
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Common.dll.config
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Dapper.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Common.pdb
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Languages.Common.dll.config
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Memory.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\bin\Debug\System.Buffers.xml
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.csproj.CopyComplete
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.dll
+E:\my_project\LanguageStudyingWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.DataLayer.dll.config
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.DataLayer.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.DataLayer.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Business.Entity.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Entity.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Query.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Common.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Dapper.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Common.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\netstandard.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Memory.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Buffers.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Business.Entity.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Business.Entity.dll.config
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Entity.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Entity.dll.config
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Query.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Query.dll.config
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Common.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Data.Common.dll.config
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Dapper.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Common.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Languages.Common.dll.config
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Memory.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\bin\Debug\System.Buffers.xml
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.csprojAssemblyReference.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.csproj.CoreCompileInputs.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.csproj.CopyComplete
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\Languages.DataLayer\obj\Debug\Languages.DataLayer.pdb
