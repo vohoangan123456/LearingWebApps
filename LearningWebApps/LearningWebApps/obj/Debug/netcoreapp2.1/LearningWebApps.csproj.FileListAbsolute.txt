@@ -1,0 +1,14 @@
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.csprojAssemblyReference.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\bin\Debug\netcoreapp2.1\LearningWebApps.deps.json
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\bin\Debug\netcoreapp2.1\LearningWebApps.runtimeconfig.json
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\bin\Debug\netcoreapp2.1\LearningWebApps.runtimeconfig.dev.json
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\bin\Debug\netcoreapp2.1\LearningWebApps.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\bin\Debug\netcoreapp2.1\LearningWebApps.pdb
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.csproj.CoreCompileInputs.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.RazorAssemblyInfo.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.RazorAssemblyInfo.cs
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.AssemblyInfoInputs.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.AssemblyInfo.cs
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.RazorTargetAssemblyInfo.cache
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.dll
+D:\Programing\Languages studying\LearingWebApps\LearningWebApps\LearningWebApps\obj\Debug\netcoreapp2.1\LearningWebApps.pdb
